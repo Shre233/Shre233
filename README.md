@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Shreyansh Jain</h1>
+<h3 align="center">A MERN Stack developer</h3>
 
-<!--
-**Shre233/Shre233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on E-commerce Website
+- 🌱 I’m currently learning Machine Learning in Data Science
+- 💬 Ask me about **MongoDB,Express,React.js,Node.js**
+- 📫 How to reach me: **jainshreyansh233@gmail.com**
+- ⚡ Fun fact: **I am also a Weeb🐱‍👤**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tech Skills:
+### Programming Languages
+[![Languages](https://skillicons.dev/icons?i=cpp,c,js,py,java)](https://skillicons.dev) <br/>
+### Frontend
+[![Frontend](https://skillicons.dev/icons?i=html,css,react,bootstrap,materialui)](https://skillicons.dev)
+### Backend
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)](https://skillicons.dev)
+### Other
+[![Other](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shre233&theme=vision-friendly-dark&hide_border=false)<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shre233&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
+## 🌐 Socials:
+<p align="left">
+<a href="https://www.linkedin.com/in/shreyansh-jain-5445331b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyansh-jain" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jn_shre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyanshjain" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/shreyansh233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shre233" height="30" width="40" /></a>
+<a href="https://leetcode.com/shre_yansh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shre233" height="30" width="40" /></a>
+</p>
+
