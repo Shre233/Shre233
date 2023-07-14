@@ -3,7 +3,6 @@
 
 # About Me:
 
-- 🔭 I’m currently working on E-commerce Website
 - 🌱 I’m currently learning Machine Learning in Data Science
 - 💬 Ask me about **MongoDB,Express,React.js,Node.js**
 - 📫 How to reach me: **jainshreyansh233@gmail.com**
