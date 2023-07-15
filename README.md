@@ -21,8 +21,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shre233&theme=vision-friendly-dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shre233&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-## 🌐 Socials:
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shre233&theme=onedark)]## 🌐 Socials:
 <p align="left">
 <a href="https://www.linkedin.com/in/shreyansh-jain-5445331b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyansh-jain" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jn_shre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyanshjain" height="30" width="40" /></a>
