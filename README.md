@@ -21,7 +21,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shre233&theme=vision-friendly-dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shre233&theme=onedark)]
+![trophy](https://github-profile-trophy.vercel.app/?username=Shre233&theme=onedark)
 
 ## 🌐 Socials:
 <p align="left">
